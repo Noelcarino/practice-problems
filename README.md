@@ -16,29 +16,35 @@
 - <a href="https://github.com/Learning-Fuze/practice-problems/blob/master/drills05/README.md" target="_blank">jQuery practice problem: populateRecords</a>
 - <a href="https://github.com/Learning-Fuze/practice-problems/blob/master/drills06/README.md" target="_blank">jQuery practice problems: removeClassFromElement<br>hideElements<br>addAttributeToElement<br>addAttributeToElement</a>
 
-### Level 0
-- <a href="practice29/README.md" target="_blank">do math</a>
-- <a href="practice30/README.md" target="_blank">random number or array element</a>
-- <a href="practice31/README.md" target="_blank">math combo</a>
-- <a href="practice32/README.md" target="_blank">find middle of string</a>
-- <a href="practice33/README.md" target="_blank">invert positive number</a>
-- <a href="practice36/README.md" target="_blank">get vowels</a>
-- <a href="practice37/README.md" target="_blank">alternate caps</a>
 
-### Level 1
-- <a href="practice02/README.md" target="_blank">Array reverser</a>
-- <a href="practice03/README.md" target="_blank">Data Type Sorter</a>
-- <a href="practice04/README.md" target="_blank">Array sort</a>
-- <a href="practice05/README.md" target="_blank">FizzBuzz</a>
-- <a href="practice20/README.md" target="_blank">Randomize Array</a>
-- <a href="practice21/README.md" target="_blank">Bipolar Loop</a>
+[xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx]
+ ### Level 0 [xxxxx]  
+[xxxxx]- <a href="practice29/README.md" target="_blank">do math</a>
+[xxxxx]- <a href="practice30/README.md" target="_blank">random number or array element</a>
+[xxxxx]- <a href="practice31/README.md" target="_blank">math combo</a>
+[xxxxx]- <a href="practice32/README.md" target="_blank">find middle of string</a>
+[xxxxx]- <a href="practice33/README.md" target="_blank">invert positive number</a>
+[xxxxx]- <a href="practice36/README.md" target="_blank">get vowels</a>
+[xxxxx]- <a href="practice37/README.md" target="_blank">alternate caps</a>xx
+[xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx]
 
+[xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx]
+### Level 1 
+[xxxxx]- <a href="practice02/README.md" target="_blank">Array reverser</a>
+[xxxxx]- <a href="practice03/README.md" target="_blank">Data Type Sorter</a>
+[xxxxx]- <a href="practice04/README.md" target="_blank">Array sort</a>
+[xxxxx]- <a href="practice05/README.md" target="_blank">FizzBuzz</a>
+[xxxxx]- <a href="practice20/README.md" target="_blank">Randomize Array</a>
+[xxxxx]- <a href="practice21/README.md" target="_blank">Bipolar Loop</a>
+[xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx]
+
+[xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx][xxxxx]
 ### Level 2
-- <a href="practice01/README.md" target="_blank">Bigger Words</a>
-- <a href="practice06/README.md" target="_blank">Numeric Spirals</a>
-- <a href="practice07/README.md" target="_blank">Igpay Atlinlay</a>
-- <a href="practice09/README.md" target="_blank">Fitting Words</a>
-- <a href="practice11/README.md" target="_blank">Even Odds</a>
+[xxxxx]- <a href="practice01/README.md" target="_blank">Bigger Words</a>
+[xxxxx]- <a href="practice06/README.md" target="_blank">Numeric Spirals</a>
+[xxxxx]- <a href="practice07/README.md" target="_blank">Igpay Atlinlay</a>
+[xxxxx]- <a href="practice09/README.md" target="_blank">Fitting Words</a>
+[xxxxx]- <a href="practice11/README.md" target="_blank">Even Odds</a>
 - <a href="practice13/README.md" target="_blank">Math Computation Sequences</a>
 - <a href="practice17/README.md" target="_blank">Skippy Numbers</a>
 - <a href="practice11/README.md" target="_blank">Sort Objects</a>
