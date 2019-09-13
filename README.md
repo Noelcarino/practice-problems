@@ -45,8 +45,8 @@
 [xxxxx]- <a href="practice07/README.md" target="_blank">Igpay Atlinlay</a>
 [xxxxx]- <a href="practice09/README.md" target="_blank">Fitting Words</a>
 [xxxxx]- <a href="practice11/README.md" target="_blank">Even Odds</a>
-- <a href="practice13/README.md" target="_blank">Math Computation Sequences</a>
-- <a href="practice17/README.md" target="_blank">Skippy Numbers</a>
+[xxxxx]- <a href="practice13/README.md" target="_blank">Math Computation Sequences</a>
+[xxxxx]- <a href="practice17/README.md" target="_blank">Skippy Numbers</a>
 - <a href="practice11/README.md" target="_blank">Sort Objects</a>
 - <a href="practice22/README.md" target="_blank">Sort Objects by field</a>
 - <a href="practice25/README.md" target="_blank">Array Add</a>
