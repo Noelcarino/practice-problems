@@ -16,7 +16,5 @@ function evenodd(array) {
     return arrHolder;
 
 }
-
 var ex1 = evenodd([2,5,1,6,8,2,20,'cat',13,3]);
-
 console.log(ex1);
